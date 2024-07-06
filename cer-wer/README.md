@@ -1,5 +1,7 @@
 CMD: 
 
+pip install numpy torch num2words torchmetrics matplotlib
+
 python cer.py
 python wer.py
 
